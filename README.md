@@ -1,4 +1,6 @@
-# vColorPicker
+# vue-color-picker
+
+Forked from [vue-color-picker](https://github.com/zuley/vue-color-picker), and ESM only.
 
 > 基于Vue的颜色选择器插件
 [DEMO 演示](http://vue-color-picker.rxshc.com/)

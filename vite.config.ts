@@ -20,8 +20,8 @@ export default defineConfig((env) => {
       cssCodeSplit: false,
       lib: {
         entry: resolve(__dirname, 'packages/main.ts'),
-        name: 'vcolorpicker',
-        fileName: 'vcolorpicker'
+        name: 'vue-color-picker',
+        fileName: 'vue-color-picker'
       },
       rollupOptions: {
         external: ['vue'],
