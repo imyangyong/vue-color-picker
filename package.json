@@ -5,8 +5,7 @@
   "description": "基于 Vue3 的颜色选择器",
   "exports": {
     ".": {
-      "import": "./lib/vue-color-pickeer.js",
-      "require": "./lib/vue-color-pickeer.js"
+      "import": "./lib/vue-color-pickeer.js"
     }
   },
   "keywords": [
