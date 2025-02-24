@@ -1,12 +1,12 @@
 {
-  "name": "v-color-picker",
-  "version": "3.0.0-beta.1",
+  "name": "vue-color-pickeer",
+  "version": "3.0.0-beta.2",
   "type": "module",
   "description": "基于 Vue3 的颜色选择器",
   "exports": {
     ".": {
-      "import": "./lib/v-color-picker.js",
-      "require": "./lib/v-color-picker.mjs"
+      "import": "./lib/vue-color-pickeer.js",
+      "require": "./lib/vue-color-pickeer.mjs"
     }
   },
   "keywords": [
