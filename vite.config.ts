@@ -21,7 +21,8 @@ export default defineConfig((env) => {
       lib: {
         entry: resolve(__dirname, 'packages/main.ts'),
         name: 'vue-color-pickeer',
-        fileName: 'vue-color-pickeer'
+        fileName: 'vue-color-pickeer',
+        formats: ['es']
       },
       rollupOptions: {
         external: ['vue'],
